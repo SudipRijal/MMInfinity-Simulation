@@ -1,0 +1,3811 @@
+busyServers : 0
+Depart  [ 8732 ] =  5.248988E-4
+Arrival [ 8732 ]  takes a departure
+Arrival [ 8733 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8734 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8735 ] =  0.010200207
+Arrival [ 8735 ]  takes a departure
+Arrival [ 8736 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8737 ] =  9.4043056E-4
+Arrival [ 8737 ]  takes a departure
+busyServers : 0
+Depart  [ 8738 ] =  0.0016806487
+Arrival [ 8738 ]  takes a departure
+Arrival [ 8739 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8740 ] =  0.0013060266
+Arrival [ 8740 ]  takes a departure
+Arrival [ 8741 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8742 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8743 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 8744 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 8745 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 8746 ] do not departure 
+busyServers : 5
+ 
+busyServers : 3
+Depart  [ 8747 ] =  0.011650236
+Arrival [ 8747 ]  takes a departure
+busyServers : 1
+Depart  [ 8748 ] =  5.6746224E-4
+Arrival [ 8748 ]  takes a departure
+Arrival [ 8749 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8750 ] =  0.0010587851
+Arrival [ 8750 ]  takes a departure
+Arrival [ 8751 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8752 ] =  6.0925225E-4
+Arrival [ 8752 ]  takes a departure
+Arrival [ 8753 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8754 ] =  0.0070041693
+Arrival [ 8754 ]  takes a departure
+Arrival [ 8755 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8756 ] =  0.025233401
+Arrival [ 8756 ]  takes a departure
+Arrival [ 8757 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8758 ] =  0.021982262
+Arrival [ 8758 ]  takes a departure
+busyServers : 0
+Depart  [ 8759 ] =  6.554751E-4
+Arrival [ 8759 ]  takes a departure
+Arrival [ 8760 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8761 ] =  0.006271471
+Arrival [ 8761 ]  takes a departure
+busyServers : 0
+Depart  [ 8762 ] =  0.00392448
+Arrival [ 8762 ]  takes a departure
+Arrival [ 8763 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8764 ] =  0.013622608
+Arrival [ 8764 ]  takes a departure
+Arrival [ 8765 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8766 ] =  0.006292455
+Arrival [ 8766 ]  takes a departure
+busyServers : 0
+Depart  [ 8767 ] =  0.011237337
+Arrival [ 8767 ]  takes a departure
+busyServers : 0
+Depart  [ 8768 ] =  5.6928602E-5
+Arrival [ 8768 ]  takes a departure
+Arrival [ 8769 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8770 ] =  0.0022840097
+Arrival [ 8770 ]  takes a departure
+Arrival [ 8771 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8772 ] =  0.0024555256
+Arrival [ 8772 ]  takes a departure
+Arrival [ 8773 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8774 ] =  0.011948531
+Arrival [ 8774 ]  takes a departure
+busyServers : 0
+Depart  [ 8775 ] =  0.012605036
+Arrival [ 8775 ]  takes a departure
+Arrival [ 8776 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8777 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8778 ] =  0.0057023754
+Arrival [ 8778 ]  takes a departure
+busyServers : 0
+Depart  [ 8779 ] =  0.0025573694
+Arrival [ 8779 ]  takes a departure
+busyServers : 0
+Depart  [ 8780 ] =  7.22622E-4
+Arrival [ 8780 ]  takes a departure
+Arrival [ 8781 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8782 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8783 ] =  0.022241887
+Arrival [ 8783 ]  takes a departure
+busyServers : 0
+Depart  [ 8784 ] =  7.744069E-4
+Arrival [ 8784 ]  takes a departure
+busyServers : 0
+Depart  [ 8785 ] =  0.0046728775
+Arrival [ 8785 ]  takes a departure
+Arrival [ 8786 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8787 ] =  2.2511382E-4
+Arrival [ 8787 ]  takes a departure
+busyServers : 0
+Depart  [ 8788 ] =  2.2563383E-4
+Arrival [ 8788 ]  takes a departure
+Arrival [ 8789 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8790 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8791 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 8792 ] do not departure 
+busyServers : 3
+ 
+busyServers : 2
+Depart  [ 8793 ] =  0.0021423749
+Arrival [ 8793 ]  takes a departure
+Arrival [ 8794 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8795 ] do not departure 
+busyServers : 3
+ 
+busyServers : 2
+Depart  [ 8796 ] =  0.006692813
+Arrival [ 8796 ]  takes a departure
+busyServers : 1
+Depart  [ 8797 ] =  1.2191219E-4
+Arrival [ 8797 ]  takes a departure
+busyServers : 0
+Depart  [ 8798 ] =  0.0031772063
+Arrival [ 8798 ]  takes a departure
+busyServers : 0
+Depart  [ 8799 ] =  0.0031175194
+Arrival [ 8799 ]  takes a departure
+Arrival [ 8800 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8801 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8802 ] =  0.006958063
+Arrival [ 8802 ]  takes a departure
+busyServers : 0
+Depart  [ 8803 ] =  0.013682293
+Arrival [ 8803 ]  takes a departure
+Arrival [ 8804 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8805 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8806 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8807 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8808 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 8809 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 8810 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 8811 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 8812 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 8813 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 8814 ] do not departure 
+busyServers : 5
+ 
+Arrival [ 8815 ] do not departure 
+busyServers : 6
+ 
+Arrival [ 8816 ] do not departure 
+busyServers : 6
+ 
+busyServers : 4
+Depart  [ 8817 ] =  0.0068286313
+Arrival [ 8817 ]  takes a departure
+Arrival [ 8818 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 8819 ] =  0.004780379
+Arrival [ 8819 ]  takes a departure
+busyServers : 0
+Depart  [ 8820 ] =  0.015917696
+Arrival [ 8820 ]  takes a departure
+Arrival [ 8821 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8822 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8823 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8824 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8825 ] =  0.0012993271
+Arrival [ 8825 ]  takes a departure
+Arrival [ 8826 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8827 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8828 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8829 ] =  0.002558364
+Arrival [ 8829 ]  takes a departure
+busyServers : 0
+Depart  [ 8830 ] =  9.93212E-4
+Arrival [ 8830 ]  takes a departure
+busyServers : 0
+Depart  [ 8831 ] =  0.0026021725
+Arrival [ 8831 ]  takes a departure
+Arrival [ 8832 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8833 ] =  0.005781348
+Arrival [ 8833 ]  takes a departure
+Arrival [ 8834 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8835 ] =  0.01741246
+Arrival [ 8835 ]  takes a departure
+busyServers : 0
+Depart  [ 8836 ] =  3.5381847E-5
+Arrival [ 8836 ]  takes a departure
+Arrival [ 8837 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8838 ] =  0.011715853
+Arrival [ 8838 ]  takes a departure
+Arrival [ 8839 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8840 ] =  0.0059995907
+Arrival [ 8840 ]  takes a departure
+Arrival [ 8841 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8842 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 8843 ] =  7.020021E-4
+Arrival [ 8843 ]  takes a departure
+busyServers : 0
+Depart  [ 8844 ] =  9.367086E-4
+Arrival [ 8844 ]  takes a departure
+Arrival [ 8845 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8846 ] =  0.001249035
+Arrival [ 8846 ]  takes a departure
+busyServers : 0
+Depart  [ 8847 ] =  0.005073051
+Arrival [ 8847 ]  takes a departure
+busyServers : 0
+Depart  [ 8848 ] =  0.005302154
+Arrival [ 8848 ]  takes a departure
+busyServers : 0
+Depart  [ 8849 ] =  0.0029509794
+Arrival [ 8849 ]  takes a departure
+busyServers : 0
+Depart  [ 8850 ] =  0.0064744786
+Arrival [ 8850 ]  takes a departure
+Arrival [ 8851 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8852 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8853 ] =  0.008273416
+Arrival [ 8853 ]  takes a departure
+busyServers : 0
+Depart  [ 8854 ] =  9.3075435E-4
+Arrival [ 8854 ]  takes a departure
+busyServers : 0
+Depart  [ 8855 ] =  0.01981365
+Arrival [ 8855 ]  takes a departure
+Arrival [ 8856 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8857 ] =  0.0013531758
+Arrival [ 8857 ]  takes a departure
+Arrival [ 8858 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8859 ] =  0.010537444
+Arrival [ 8859 ]  takes a departure
+Arrival [ 8860 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8861 ] =  0.008271332
+Arrival [ 8861 ]  takes a departure
+Arrival [ 8862 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8863 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8864 ] =  0.013165217
+Arrival [ 8864 ]  takes a departure
+busyServers : 0
+Depart  [ 8865 ] =  0.0015853222
+Arrival [ 8865 ]  takes a departure
+busyServers : 0
+Depart  [ 8866 ] =  0.0072184424
+Arrival [ 8866 ]  takes a departure
+busyServers : 0
+Depart  [ 8867 ] =  0.0051363413
+Arrival [ 8867 ]  takes a departure
+busyServers : 0
+Depart  [ 8868 ] =  0.003834387
+Arrival [ 8868 ]  takes a departure
+busyServers : 0
+Depart  [ 8869 ] =  0.0020990663
+Arrival [ 8869 ]  takes a departure
+busyServers : 0
+Depart  [ 8870 ] =  0.008153558
+Arrival [ 8870 ]  takes a departure
+Arrival [ 8871 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8872 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8873 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8874 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 8875 ] =  0.0062165586
+Arrival [ 8875 ]  takes a departure
+busyServers : 0
+Depart  [ 8876 ] =  0.011647042
+Arrival [ 8876 ]  takes a departure
+busyServers : 0
+Depart  [ 8877 ] =  0.0040108035
+Arrival [ 8877 ]  takes a departure
+busyServers : 0
+Depart  [ 8878 ] =  0.0025049928
+Arrival [ 8878 ]  takes a departure
+Arrival [ 8879 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8880 ] =  5.7937973E-4
+Arrival [ 8880 ]  takes a departure
+busyServers : 0
+Depart  [ 8881 ] =  0.008766538
+Arrival [ 8881 ]  takes a departure
+Arrival [ 8882 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8883 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8884 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8885 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 8886 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 8887 ] =  0.0018574055
+Arrival [ 8887 ]  takes a departure
+busyServers : 0
+Depart  [ 8888 ] =  0.006439626
+Arrival [ 8888 ]  takes a departure
+Arrival [ 8889 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8890 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8891 ] =  0.010507371
+Arrival [ 8891 ]  takes a departure
+Arrival [ 8892 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8893 ] =  0.0070935693
+Arrival [ 8893 ]  takes a departure
+busyServers : 0
+Depart  [ 8894 ] =  0.0011296159
+Arrival [ 8894 ]  takes a departure
+Arrival [ 8895 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8896 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8897 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8898 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8899 ] =  0.007208774
+Arrival [ 8899 ]  takes a departure
+Arrival [ 8900 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8901 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 8902 ] =  0.008915773
+Arrival [ 8902 ]  takes a departure
+busyServers : 0
+Depart  [ 8903 ] =  0.0033867871
+Arrival [ 8903 ]  takes a departure
+busyServers : 0
+Depart  [ 8904 ] =  0.0075562866
+Arrival [ 8904 ]  takes a departure
+busyServers : 0
+Depart  [ 8905 ] =  1.9584876E-4
+Arrival [ 8905 ]  takes a departure
+busyServers : 0
+Depart  [ 8906 ] =  0.007835071
+Arrival [ 8906 ]  takes a departure
+busyServers : 0
+Depart  [ 8907 ] =  0.0018156684
+Arrival [ 8907 ]  takes a departure
+Arrival [ 8908 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8909 ] =  0.0010348985
+Arrival [ 8909 ]  takes a departure
+busyServers : 0
+Depart  [ 8910 ] =  0.0010211689
+Arrival [ 8910 ]  takes a departure
+Arrival [ 8911 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8912 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8913 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8914 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 8915 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 8916 ] =  0.0030355284
+Arrival [ 8916 ]  takes a departure
+busyServers : 0
+Depart  [ 8917 ] =  0.012504128
+Arrival [ 8917 ]  takes a departure
+Arrival [ 8918 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8919 ] =  0.0019204923
+Arrival [ 8919 ]  takes a departure
+busyServers : 0
+Depart  [ 8920 ] =  0.021623276
+Arrival [ 8920 ]  takes a departure
+busyServers : 0
+Depart  [ 8921 ] =  0.005439777
+Arrival [ 8921 ]  takes a departure
+Arrival [ 8922 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8923 ] =  0.021807587
+Arrival [ 8923 ]  takes a departure
+busyServers : 0
+Depart  [ 8924 ] =  1.9996951E-4
+Arrival [ 8924 ]  takes a departure
+busyServers : 0
+Depart  [ 8925 ] =  0.006433688
+Arrival [ 8925 ]  takes a departure
+Arrival [ 8926 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8927 ] =  0.0011546059
+Arrival [ 8927 ]  takes a departure
+busyServers : 0
+Depart  [ 8928 ] =  7.1116874E-4
+Arrival [ 8928 ]  takes a departure
+busyServers : 0
+Depart  [ 8929 ] =  7.9336925E-4
+Arrival [ 8929 ]  takes a departure
+Arrival [ 8930 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8931 ] =  0.0026625067
+Arrival [ 8931 ]  takes a departure
+busyServers : 0
+Depart  [ 8932 ] =  0.003549593
+Arrival [ 8932 ]  takes a departure
+busyServers : 0
+Depart  [ 8933 ] =  0.0017333477
+Arrival [ 8933 ]  takes a departure
+Arrival [ 8934 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8935 ] =  0.007090193
+Arrival [ 8935 ]  takes a departure
+busyServers : 0
+Depart  [ 8936 ] =  0.0017689075
+Arrival [ 8936 ]  takes a departure
+Arrival [ 8937 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8938 ] =  0.0043713604
+Arrival [ 8938 ]  takes a departure
+Arrival [ 8939 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8940 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 8941 ] =  6.922791E-4
+Arrival [ 8941 ]  takes a departure
+Arrival [ 8942 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8943 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8944 ] =  5.216504E-4
+Arrival [ 8944 ]  takes a departure
+Arrival [ 8945 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8946 ] =  0.008144647
+Arrival [ 8946 ]  takes a departure
+Arrival [ 8947 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8948 ] =  3.2584774E-4
+Arrival [ 8948 ]  takes a departure
+busyServers : 0
+Depart  [ 8949 ] =  0.004368403
+Arrival [ 8949 ]  takes a departure
+busyServers : 0
+Depart  [ 8950 ] =  5.529343E-4
+Arrival [ 8950 ]  takes a departure
+Arrival [ 8951 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8952 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8953 ] =  2.007564E-4
+Arrival [ 8953 ]  takes a departure
+Arrival [ 8954 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8955 ] =  0.0010677623
+Arrival [ 8955 ]  takes a departure
+busyServers : 0
+Depart  [ 8956 ] =  0.0028408803
+Arrival [ 8956 ]  takes a departure
+busyServers : 0
+Depart  [ 8957 ] =  8.848704E-4
+Arrival [ 8957 ]  takes a departure
+busyServers : 0
+Depart  [ 8958 ] =  0.0030141587
+Arrival [ 8958 ]  takes a departure
+busyServers : 0
+Depart  [ 8959 ] =  0.00494113
+Arrival [ 8959 ]  takes a departure
+busyServers : 0
+Depart  [ 8960 ] =  0.0029784632
+Arrival [ 8960 ]  takes a departure
+Arrival [ 8961 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8962 ] =  0.0060221567
+Arrival [ 8962 ]  takes a departure
+busyServers : 0
+Depart  [ 8963 ] =  0.00692946
+Arrival [ 8963 ]  takes a departure
+Arrival [ 8964 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8965 ] =  6.706195E-4
+Arrival [ 8965 ]  takes a departure
+busyServers : 0
+Depart  [ 8966 ] =  0.007117992
+Arrival [ 8966 ]  takes a departure
+busyServers : 0
+Depart  [ 8967 ] =  0.0041270396
+Arrival [ 8967 ]  takes a departure
+busyServers : 0
+Depart  [ 8968 ] =  0.013270457
+Arrival [ 8968 ]  takes a departure
+Arrival [ 8969 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8970 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8971 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 8972 ] =  0.0021303622
+Arrival [ 8972 ]  takes a departure
+Arrival [ 8973 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 8974 ] =  0.0018485744
+Arrival [ 8974 ]  takes a departure
+busyServers : 0
+Depart  [ 8975 ] =  0.004503139
+Arrival [ 8975 ]  takes a departure
+busyServers : 0
+Depart  [ 8976 ] =  5.860921E-4
+Arrival [ 8976 ]  takes a departure
+Arrival [ 8977 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8978 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8979 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 8980 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 8981 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 8982 ] =  0.0040932796
+Arrival [ 8982 ]  takes a departure
+Arrival [ 8983 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 8984 ] =  0.0071939696
+Arrival [ 8984 ]  takes a departure
+Arrival [ 8985 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 8986 ] =  0.013960425
+Arrival [ 8986 ]  takes a departure
+busyServers : 0
+Depart  [ 8987 ] =  0.0012900367
+Arrival [ 8987 ]  takes a departure
+busyServers : 0
+Depart  [ 8988 ] =  0.017983234
+Arrival [ 8988 ]  takes a departure
+Arrival [ 8989 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 8990 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 8991 ] do not departure 
+busyServers : 3
+ 
+busyServers : 2
+Depart  [ 8992 ] =  9.6324825E-4
+Arrival [ 8992 ]  takes a departure
+Arrival [ 8993 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 8994 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 8995 ] =  0.0021579498
+Arrival [ 8995 ]  takes a departure
+busyServers : 1
+Depart  [ 8996 ] =  0.0047029234
+Arrival [ 8996 ]  takes a departure
+busyServers : 0
+Depart  [ 8997 ] =  8.3518884E-4
+Arrival [ 8997 ]  takes a departure
+Arrival [ 8998 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 8999 ] =  8.0497586E-4
+Arrival [ 8999 ]  takes a departure
+Arrival [ 9000 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9001 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9002 ] =  1.2328371E-4
+Arrival [ 9002 ]  takes a departure
+Arrival [ 9003 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9004 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9005 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9006 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9007 ] =  0.009732709
+Arrival [ 9007 ]  takes a departure
+Arrival [ 9008 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9009 ] =  0.0026065272
+Arrival [ 9009 ]  takes a departure
+busyServers : 0
+Depart  [ 9010 ] =  2.9105716E-4
+Arrival [ 9010 ]  takes a departure
+Arrival [ 9011 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9012 ] =  0.014447975
+Arrival [ 9012 ]  takes a departure
+busyServers : 0
+Depart  [ 9013 ] =  0.0018876968
+Arrival [ 9013 ]  takes a departure
+Arrival [ 9014 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9015 ] =  0.004655683
+Arrival [ 9015 ]  takes a departure
+busyServers : 0
+Depart  [ 9016 ] =  0.008283048
+Arrival [ 9016 ]  takes a departure
+busyServers : 0
+Depart  [ 9017 ] =  0.0031450123
+Arrival [ 9017 ]  takes a departure
+Arrival [ 9018 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9019 ] =  0.009921654
+Arrival [ 9019 ]  takes a departure
+Arrival [ 9020 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9021 ] =  0.0024853705
+Arrival [ 9021 ]  takes a departure
+Arrival [ 9022 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9023 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9024 ] =  0.012124678
+Arrival [ 9024 ]  takes a departure
+Arrival [ 9025 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9026 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9027 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9028 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9029 ] =  0.002292701
+Arrival [ 9029 ]  takes a departure
+busyServers : 0
+Depart  [ 9030 ] =  0.0038005644
+Arrival [ 9030 ]  takes a departure
+Arrival [ 9031 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9032 ] =  0.011227557
+Arrival [ 9032 ]  takes a departure
+busyServers : 0
+Depart  [ 9033 ] =  0.0019136694
+Arrival [ 9033 ]  takes a departure
+busyServers : 0
+Depart  [ 9034 ] =  0.001849171
+Arrival [ 9034 ]  takes a departure
+busyServers : 0
+Depart  [ 9035 ] =  0.006679281
+Arrival [ 9035 ]  takes a departure
+Arrival [ 9036 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9037 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9038 ] =  2.5985595E-5
+Arrival [ 9038 ]  takes a departure
+busyServers : 0
+Depart  [ 9039 ] =  0.0024764256
+Arrival [ 9039 ]  takes a departure
+Arrival [ 9040 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9041 ] =  5.027127E-4
+Arrival [ 9041 ]  takes a departure
+Arrival [ 9042 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9043 ] =  0.0046605854
+Arrival [ 9043 ]  takes a departure
+busyServers : 0
+Depart  [ 9044 ] =  0.0047264793
+Arrival [ 9044 ]  takes a departure
+busyServers : 0
+Depart  [ 9045 ] =  0.0137988785
+Arrival [ 9045 ]  takes a departure
+Arrival [ 9046 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9047 ] =  0.0030734628
+Arrival [ 9047 ]  takes a departure
+busyServers : 0
+Depart  [ 9048 ] =  0.0018031923
+Arrival [ 9048 ]  takes a departure
+Arrival [ 9049 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9050 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9051 ] =  0.0019878703
+Arrival [ 9051 ]  takes a departure
+Arrival [ 9052 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9053 ] =  8.366741E-4
+Arrival [ 9053 ]  takes a departure
+busyServers : 0
+Depart  [ 9054 ] =  0.0039726654
+Arrival [ 9054 ]  takes a departure
+Arrival [ 9055 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9056 ] =  0.005553366
+Arrival [ 9056 ]  takes a departure
+busyServers : 0
+Depart  [ 9057 ] =  0.00557736
+Arrival [ 9057 ]  takes a departure
+Arrival [ 9058 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9059 ] =  0.004143546
+Arrival [ 9059 ]  takes a departure
+busyServers : 0
+Depart  [ 9060 ] =  0.022982633
+Arrival [ 9060 ]  takes a departure
+busyServers : 0
+Depart  [ 9061 ] =  0.0092969835
+Arrival [ 9061 ]  takes a departure
+busyServers : 0
+Depart  [ 9062 ] =  0.0060029323
+Arrival [ 9062 ]  takes a departure
+busyServers : 0
+Depart  [ 9063 ] =  0.0011470818
+Arrival [ 9063 ]  takes a departure
+busyServers : 0
+Depart  [ 9064 ] =  0.020212991
+Arrival [ 9064 ]  takes a departure
+busyServers : 0
+Depart  [ 9065 ] =  0.0016703625
+Arrival [ 9065 ]  takes a departure
+busyServers : 0
+Depart  [ 9066 ] =  0.003739568
+Arrival [ 9066 ]  takes a departure
+Arrival [ 9067 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9068 ] =  0.0022540796
+Arrival [ 9068 ]  takes a departure
+busyServers : 0
+Depart  [ 9069 ] =  0.0016637511
+Arrival [ 9069 ]  takes a departure
+Arrival [ 9070 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9071 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9072 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9073 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9074 ] =  0.0066201286
+Arrival [ 9074 ]  takes a departure
+Arrival [ 9075 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9076 ] =  0.0010293011
+Arrival [ 9076 ]  takes a departure
+busyServers : 0
+Depart  [ 9077 ] =  0.0026717489
+Arrival [ 9077 ]  takes a departure
+busyServers : 0
+Depart  [ 9078 ] =  0.0019716984
+Arrival [ 9078 ]  takes a departure
+Arrival [ 9079 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9080 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9081 ] =  0.0062838555
+Arrival [ 9081 ]  takes a departure
+busyServers : 0
+Depart  [ 9082 ] =  0.01221928
+Arrival [ 9082 ]  takes a departure
+Arrival [ 9083 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9084 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9085 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9086 ] =  0.0032333299
+Arrival [ 9086 ]  takes a departure
+busyServers : 0
+Depart  [ 9087 ] =  0.0017425535
+Arrival [ 9087 ]  takes a departure
+busyServers : 0
+Depart  [ 9088 ] =  0.017642
+Arrival [ 9088 ]  takes a departure
+busyServers : 0
+Depart  [ 9089 ] =  0.0031262087
+Arrival [ 9089 ]  takes a departure
+busyServers : 0
+Depart  [ 9090 ] =  0.0034603984
+Arrival [ 9090 ]  takes a departure
+Arrival [ 9091 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9092 ] =  0.006043013
+Arrival [ 9092 ]  takes a departure
+busyServers : 0
+Depart  [ 9093 ] =  0.006135851
+Arrival [ 9093 ]  takes a departure
+Arrival [ 9094 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9095 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9096 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9097 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9098 ] =  0.010664333
+Arrival [ 9098 ]  takes a departure
+Arrival [ 9099 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9100 ] =  0.0051459544
+Arrival [ 9100 ]  takes a departure
+busyServers : 0
+Depart  [ 9101 ] =  0.0038987328
+Arrival [ 9101 ]  takes a departure
+Arrival [ 9102 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9103 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9104 ] =  0.0031508687
+Arrival [ 9104 ]  takes a departure
+busyServers : 0
+Depart  [ 9105 ] =  0.007766531
+Arrival [ 9105 ]  takes a departure
+Arrival [ 9106 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9107 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9108 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9109 ] do not departure 
+busyServers : 4
+ 
+busyServers : 3
+Depart  [ 9110 ] =  0.0028106067
+Arrival [ 9110 ]  takes a departure
+Arrival [ 9111 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 9112 ] do not departure 
+busyServers : 5
+ 
+busyServers : 3
+Depart  [ 9113 ] =  0.01180343
+Arrival [ 9113 ]  takes a departure
+Arrival [ 9114 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 9115 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9116 ] =  0.0022767233
+Arrival [ 9116 ]  takes a departure
+busyServers : 0
+Depart  [ 9117 ] =  0.004174155
+Arrival [ 9117 ]  takes a departure
+Arrival [ 9118 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9119 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9120 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9121 ] =  0.0016770235
+Arrival [ 9121 ]  takes a departure
+Arrival [ 9122 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9123 ] =  0.004478204
+Arrival [ 9123 ]  takes a departure
+busyServers : 0
+Depart  [ 9124 ] =  0.0041280687
+Arrival [ 9124 ]  takes a departure
+busyServers : 0
+Depart  [ 9125 ] =  4.8681832E-4
+Arrival [ 9125 ]  takes a departure
+busyServers : 0
+Depart  [ 9126 ] =  4.9178326E-4
+Arrival [ 9126 ]  takes a departure
+busyServers : 0
+Depart  [ 9127 ] =  0.003641549
+Arrival [ 9127 ]  takes a departure
+Arrival [ 9128 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9129 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9130 ] =  4.8625702E-4
+Arrival [ 9130 ]  takes a departure
+busyServers : 0
+Depart  [ 9131 ] =  0.0023278676
+Arrival [ 9131 ]  takes a departure
+Arrival [ 9132 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9133 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9134 ] =  0.0033811112
+Arrival [ 9134 ]  takes a departure
+busyServers : 0
+Depart  [ 9135 ] =  0.0034023128
+Arrival [ 9135 ]  takes a departure
+busyServers : 0
+Depart  [ 9136 ] =  4.7790803E-4
+Arrival [ 9136 ]  takes a departure
+busyServers : 0
+Depart  [ 9137 ] =  0.010368121
+Arrival [ 9137 ]  takes a departure
+Arrival [ 9138 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9139 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9140 ] =  0.0036531715
+Arrival [ 9140 ]  takes a departure
+busyServers : 0
+Depart  [ 9141 ] =  0.0027782877
+Arrival [ 9141 ]  takes a departure
+busyServers : 0
+Depart  [ 9142 ] =  0.0029513885
+Arrival [ 9142 ]  takes a departure
+busyServers : 0
+Depart  [ 9143 ] =  6.797204E-4
+Arrival [ 9143 ]  takes a departure
+Arrival [ 9144 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9145 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9146 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9147 ] =  5.7272427E-4
+Arrival [ 9147 ]  takes a departure
+busyServers : 0
+Depart  [ 9148 ] =  5.7073374E-4
+Arrival [ 9148 ]  takes a departure
+busyServers : 0
+Depart  [ 9149 ] =  0.0023167422
+Arrival [ 9149 ]  takes a departure
+Arrival [ 9150 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9151 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9152 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9153 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9154 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9155 ] =  0.006981317
+Arrival [ 9155 ]  takes a departure
+Arrival [ 9156 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9157 ] =  0.0011130833
+Arrival [ 9157 ]  takes a departure
+Arrival [ 9158 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9159 ] do not departure 
+busyServers : 3
+ 
+busyServers : 2
+Depart  [ 9160 ] =  6.570529E-4
+Arrival [ 9160 ]  takes a departure
+busyServers : 1
+Depart  [ 9161 ] =  0.0019815515
+Arrival [ 9161 ]  takes a departure
+busyServers : 0
+Depart  [ 9162 ] =  0.011882458
+Arrival [ 9162 ]  takes a departure
+Arrival [ 9163 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9164 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9165 ] =  0.002286828
+Arrival [ 9165 ]  takes a departure
+busyServers : 0
+Depart  [ 9166 ] =  0.0016813376
+Arrival [ 9166 ]  takes a departure
+busyServers : 0
+Depart  [ 9167 ] =  0.0038849728
+Arrival [ 9167 ]  takes a departure
+Arrival [ 9168 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9169 ] =  0.0038038187
+Arrival [ 9169 ]  takes a departure
+busyServers : 0
+Depart  [ 9170 ] =  0.001594037
+Arrival [ 9170 ]  takes a departure
+Arrival [ 9171 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9172 ] =  0.0054258117
+Arrival [ 9172 ]  takes a departure
+Arrival [ 9173 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9174 ] =  0.0053073005
+Arrival [ 9174 ]  takes a departure
+busyServers : 0
+Depart  [ 9175 ] =  0.007955742
+Arrival [ 9175 ]  takes a departure
+busyServers : 0
+Depart  [ 9176 ] =  0.0050086267
+Arrival [ 9176 ]  takes a departure
+Arrival [ 9177 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9178 ] =  0.004251941
+Arrival [ 9178 ]  takes a departure
+busyServers : 0
+Depart  [ 9179 ] =  0.0040518376
+Arrival [ 9179 ]  takes a departure
+Arrival [ 9180 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9181 ] =  0.0017426239
+Arrival [ 9181 ]  takes a departure
+Arrival [ 9182 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9183 ] =  0.016120072
+Arrival [ 9183 ]  takes a departure
+Arrival [ 9184 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9185 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9186 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9187 ] =  0.0012525946
+Arrival [ 9187 ]  takes a departure
+busyServers : 0
+Depart  [ 9188 ] =  5.438302E-4
+Arrival [ 9188 ]  takes a departure
+busyServers : 0
+Depart  [ 9189 ] =  0.00528379
+Arrival [ 9189 ]  takes a departure
+Arrival [ 9190 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9191 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9192 ] =  6.3853E-4
+Arrival [ 9192 ]  takes a departure
+Arrival [ 9193 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9194 ] =  0.0015742246
+Arrival [ 9194 ]  takes a departure
+Arrival [ 9195 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9196 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9197 ] =  0.0064634415
+Arrival [ 9197 ]  takes a departure
+busyServers : 0
+Depart  [ 9198 ] =  0.0012390455
+Arrival [ 9198 ]  takes a departure
+busyServers : 0
+Depart  [ 9199 ] =  0.0019253079
+Arrival [ 9199 ]  takes a departure
+busyServers : 0
+Depart  [ 9200 ] =  3.9679948E-5
+Arrival [ 9200 ]  takes a departure
+Arrival [ 9201 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9202 ] =  0.0064950744
+Arrival [ 9202 ]  takes a departure
+Arrival [ 9203 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9204 ] =  0.0069892486
+Arrival [ 9204 ]  takes a departure
+Arrival [ 9205 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9206 ] =  0.0032594001
+Arrival [ 9206 ]  takes a departure
+Arrival [ 9207 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9208 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9209 ] =  0.003118082
+Arrival [ 9209 ]  takes a departure
+Arrival [ 9210 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9211 ] =  0.008651066
+Arrival [ 9211 ]  takes a departure
+Arrival [ 9212 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9213 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9214 ] =  0.0018853424
+Arrival [ 9214 ]  takes a departure
+Arrival [ 9215 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9216 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9217 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9218 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9219 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9220 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9221 ] =  0.009971569
+Arrival [ 9221 ]  takes a departure
+Arrival [ 9222 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9223 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9224 ] =  0.028005183
+Arrival [ 9224 ]  takes a departure
+busyServers : 0
+Depart  [ 9225 ] =  0.00136857
+Arrival [ 9225 ]  takes a departure
+Arrival [ 9226 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9227 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9228 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9229 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9230 ] =  0.0019223356
+Arrival [ 9230 ]  takes a departure
+busyServers : 0
+Depart  [ 9231 ] =  0.0037525464
+Arrival [ 9231 ]  takes a departure
+Arrival [ 9232 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9233 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9234 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9235 ] =  0.0051814844
+Arrival [ 9235 ]  takes a departure
+Arrival [ 9236 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9237 ] =  0.0032262085
+Arrival [ 9237 ]  takes a departure
+busyServers : 0
+Depart  [ 9238 ] =  0.0010912376
+Arrival [ 9238 ]  takes a departure
+Arrival [ 9239 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9240 ] =  0.0017517665
+Arrival [ 9240 ]  takes a departure
+Arrival [ 9241 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9242 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9243 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9244 ] =  0.005499868
+Arrival [ 9244 ]  takes a departure
+busyServers : 0
+Depart  [ 9245 ] =  0.0019610838
+Arrival [ 9245 ]  takes a departure
+Arrival [ 9246 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9247 ] =  0.0056473953
+Arrival [ 9247 ]  takes a departure
+busyServers : 0
+Depart  [ 9248 ] =  0.006794125
+Arrival [ 9248 ]  takes a departure
+Arrival [ 9249 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9250 ] =  2.8378132E-4
+Arrival [ 9250 ]  takes a departure
+busyServers : 0
+Depart  [ 9251 ] =  0.0018115453
+Arrival [ 9251 ]  takes a departure
+busyServers : 0
+Depart  [ 9252 ] =  8.596048E-4
+Arrival [ 9252 ]  takes a departure
+busyServers : 0
+Depart  [ 9253 ] =  0.005448603
+Arrival [ 9253 ]  takes a departure
+Arrival [ 9254 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9255 ] =  0.003925679
+Arrival [ 9255 ]  takes a departure
+busyServers : 0
+Depart  [ 9256 ] =  0.007555535
+Arrival [ 9256 ]  takes a departure
+Arrival [ 9257 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9258 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9259 ] =  0.004720552
+Arrival [ 9259 ]  takes a departure
+Arrival [ 9260 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9261 ] =  0.0012084179
+Arrival [ 9261 ]  takes a departure
+busyServers : 0
+Depart  [ 9262 ] =  4.8101338E-4
+Arrival [ 9262 ]  takes a departure
+busyServers : 0
+Depart  [ 9263 ] =  0.003465399
+Arrival [ 9263 ]  takes a departure
+busyServers : 0
+Depart  [ 9264 ] =  0.0023639146
+Arrival [ 9264 ]  takes a departure
+busyServers : 0
+Depart  [ 9265 ] =  0.017495846
+Arrival [ 9265 ]  takes a departure
+busyServers : 0
+Depart  [ 9266 ] =  3.2908484E-4
+Arrival [ 9266 ]  takes a departure
+Arrival [ 9267 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9268 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9269 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9270 ] =  0.004977129
+Arrival [ 9270 ]  takes a departure
+Arrival [ 9271 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9272 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9273 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9274 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9275 ] =  0.006763281
+Arrival [ 9275 ]  takes a departure
+Arrival [ 9276 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9277 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9278 ] =  7.561329E-4
+Arrival [ 9278 ]  takes a departure
+Arrival [ 9279 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9280 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9281 ] =  0.0024245703
+Arrival [ 9281 ]  takes a departure
+busyServers : 0
+Depart  [ 9282 ] =  0.0012762891
+Arrival [ 9282 ]  takes a departure
+busyServers : 0
+Depart  [ 9283 ] =  7.007502E-4
+Arrival [ 9283 ]  takes a departure
+Arrival [ 9284 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9285 ] =  0.0142550105
+Arrival [ 9285 ]  takes a departure
+Arrival [ 9286 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9287 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9288 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9289 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9290 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9291 ] =  0.007863775
+Arrival [ 9291 ]  takes a departure
+Arrival [ 9292 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9293 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 9294 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 9295 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 9296 ] do not departure 
+busyServers : 5
+ 
+Arrival [ 9297 ] do not departure 
+busyServers : 5
+ 
+busyServers : 3
+Depart  [ 9298 ] =  0.0025819605
+Arrival [ 9298 ]  takes a departure
+Arrival [ 9299 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9300 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9301 ] =  0.0051508257
+Arrival [ 9301 ]  takes a departure
+Arrival [ 9302 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9303 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9304 ] =  0.022387821
+Arrival [ 9304 ]  takes a departure
+Arrival [ 9305 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9306 ] =  3.0345996E-4
+Arrival [ 9306 ]  takes a departure
+busyServers : 0
+Depart  [ 9307 ] =  0.005140479
+Arrival [ 9307 ]  takes a departure
+busyServers : 0
+Depart  [ 9308 ] =  0.0010239108
+Arrival [ 9308 ]  takes a departure
+busyServers : 0
+Depart  [ 9309 ] =  3.7792732E-4
+Arrival [ 9309 ]  takes a departure
+Arrival [ 9310 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9311 ] =  0.009710018
+Arrival [ 9311 ]  takes a departure
+Arrival [ 9312 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9313 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9314 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9315 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9316 ] =  0.025670096
+Arrival [ 9316 ]  takes a departure
+Arrival [ 9317 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9318 ] =  4.377986E-4
+Arrival [ 9318 ]  takes a departure
+busyServers : 0
+Depart  [ 9319 ] =  0.006178377
+Arrival [ 9319 ]  takes a departure
+Arrival [ 9320 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9321 ] =  0.0015132603
+Arrival [ 9321 ]  takes a departure
+Arrival [ 9322 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9323 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9324 ] =  0.00397807
+Arrival [ 9324 ]  takes a departure
+Arrival [ 9325 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9326 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9327 ] =  0.01432944
+Arrival [ 9327 ]  takes a departure
+Arrival [ 9328 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9329 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9330 ] =  0.0018251172
+Arrival [ 9330 ]  takes a departure
+Arrival [ 9331 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9332 ] =  0.0023644045
+Arrival [ 9332 ]  takes a departure
+busyServers : 0
+Depart  [ 9333 ] =  0.00467883
+Arrival [ 9333 ]  takes a departure
+Arrival [ 9334 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9335 ] =  0.009686757
+Arrival [ 9335 ]  takes a departure
+busyServers : 0
+Depart  [ 9336 ] =  8.266769E-4
+Arrival [ 9336 ]  takes a departure
+Arrival [ 9337 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9338 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9339 ] =  5.274099E-4
+Arrival [ 9339 ]  takes a departure
+Arrival [ 9340 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9341 ] =  0.009048224
+Arrival [ 9341 ]  takes a departure
+busyServers : 0
+Depart  [ 9342 ] =  8.3414954E-5
+Arrival [ 9342 ]  takes a departure
+busyServers : 0
+Depart  [ 9343 ] =  0.0042127757
+Arrival [ 9343 ]  takes a departure
+busyServers : 0
+Depart  [ 9344 ] =  0.008065725
+Arrival [ 9344 ]  takes a departure
+Arrival [ 9345 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9346 ] =  0.004882051
+Arrival [ 9346 ]  takes a departure
+Arrival [ 9347 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9348 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9349 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9350 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9351 ] =  0.0052314787
+Arrival [ 9351 ]  takes a departure
+busyServers : 0
+Depart  [ 9352 ] =  0.010423553
+Arrival [ 9352 ]  takes a departure
+busyServers : 0
+Depart  [ 9353 ] =  0.0038641104
+Arrival [ 9353 ]  takes a departure
+Arrival [ 9354 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9355 ] =  0.004007054
+Arrival [ 9355 ]  takes a departure
+Arrival [ 9356 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9357 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9358 ] =  0.0012656115
+Arrival [ 9358 ]  takes a departure
+busyServers : 0
+Depart  [ 9359 ] =  0.010078586
+Arrival [ 9359 ]  takes a departure
+busyServers : 0
+Depart  [ 9360 ] =  0.006214976
+Arrival [ 9360 ]  takes a departure
+busyServers : 0
+Depart  [ 9361 ] =  0.007212651
+Arrival [ 9361 ]  takes a departure
+Arrival [ 9362 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9363 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9364 ] =  9.4624574E-4
+Arrival [ 9364 ]  takes a departure
+busyServers : 0
+Depart  [ 9365 ] =  4.4998582E-4
+Arrival [ 9365 ]  takes a departure
+busyServers : 0
+Depart  [ 9366 ] =  0.02499612
+Arrival [ 9366 ]  takes a departure
+Arrival [ 9367 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9368 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9369 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9370 ] =  0.0033621665
+Arrival [ 9370 ]  takes a departure
+Arrival [ 9371 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9372 ] =  0.0025471526
+Arrival [ 9372 ]  takes a departure
+busyServers : 0
+Depart  [ 9373 ] =  0.0052619814
+Arrival [ 9373 ]  takes a departure
+Arrival [ 9374 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9375 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9376 ] =  0.0031914392
+Arrival [ 9376 ]  takes a departure
+busyServers : 0
+Depart  [ 9377 ] =  0.006052599
+Arrival [ 9377 ]  takes a departure
+Arrival [ 9378 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9379 ] =  3.73336E-4
+Arrival [ 9379 ]  takes a departure
+busyServers : 0
+Depart  [ 9380 ] =  0.0037332093
+Arrival [ 9380 ]  takes a departure
+busyServers : 0
+Depart  [ 9381 ] =  8.560453E-4
+Arrival [ 9381 ]  takes a departure
+Arrival [ 9382 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9383 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9384 ] =  0.0054299533
+Arrival [ 9384 ]  takes a departure
+busyServers : 0
+Depart  [ 9385 ] =  0.007845005
+Arrival [ 9385 ]  takes a departure
+Arrival [ 9386 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9387 ] =  0.0029315834
+Arrival [ 9387 ]  takes a departure
+Arrival [ 9388 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9389 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9390 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9391 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9392 ] =  0.0049217767
+Arrival [ 9392 ]  takes a departure
+Arrival [ 9393 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9394 ] =  0.0011242687
+Arrival [ 9394 ]  takes a departure
+Arrival [ 9395 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9396 ] =  0.0020471571
+Arrival [ 9396 ]  takes a departure
+Arrival [ 9397 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9398 ] =  0.00243469
+Arrival [ 9398 ]  takes a departure
+busyServers : 0
+Depart  [ 9399 ] =  0.0011431839
+Arrival [ 9399 ]  takes a departure
+Arrival [ 9400 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9401 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9402 ] =  0.003783214
+Arrival [ 9402 ]  takes a departure
+Arrival [ 9403 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9404 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9405 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9406 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9407 ] =  0.0014909832
+Arrival [ 9407 ]  takes a departure
+busyServers : 0
+Depart  [ 9408 ] =  9.0160116E-4
+Arrival [ 9408 ]  takes a departure
+busyServers : 0
+Depart  [ 9409 ] =  0.004748478
+Arrival [ 9409 ]  takes a departure
+Arrival [ 9410 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9411 ] =  4.3880186E-4
+Arrival [ 9411 ]  takes a departure
+Arrival [ 9412 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9413 ] =  0.0010215379
+Arrival [ 9413 ]  takes a departure
+Arrival [ 9414 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9415 ] =  0.0035862448
+Arrival [ 9415 ]  takes a departure
+busyServers : 0
+Depart  [ 9416 ] =  1.0370557E-4
+Arrival [ 9416 ]  takes a departure
+busyServers : 0
+Depart  [ 9417 ] =  0.009554903
+Arrival [ 9417 ]  takes a departure
+busyServers : 0
+Depart  [ 9418 ] =  0.0045466586
+Arrival [ 9418 ]  takes a departure
+busyServers : 0
+Depart  [ 9419 ] =  0.001172911
+Arrival [ 9419 ]  takes a departure
+busyServers : 0
+Depart  [ 9420 ] =  0.002669766
+Arrival [ 9420 ]  takes a departure
+Arrival [ 9421 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9422 ] =  0.0040757344
+Arrival [ 9422 ]  takes a departure
+busyServers : 0
+Depart  [ 9423 ] =  0.009699181
+Arrival [ 9423 ]  takes a departure
+Arrival [ 9424 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9425 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9426 ] =  0.0016680988
+Arrival [ 9426 ]  takes a departure
+busyServers : 0
+Depart  [ 9427 ] =  1.9716907E-4
+Arrival [ 9427 ]  takes a departure
+Arrival [ 9428 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9429 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9430 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9431 ] =  8.198322E-4
+Arrival [ 9431 ]  takes a departure
+busyServers : 0
+Depart  [ 9432 ] =  0.006350421
+Arrival [ 9432 ]  takes a departure
+busyServers : 0
+Depart  [ 9433 ] =  0.003089334
+Arrival [ 9433 ]  takes a departure
+Arrival [ 9434 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9435 ] =  4.6508355E-4
+Arrival [ 9435 ]  takes a departure
+busyServers : 0
+Depart  [ 9436 ] =  0.0021896341
+Arrival [ 9436 ]  takes a departure
+busyServers : 0
+Depart  [ 9437 ] =  2.895876E-4
+Arrival [ 9437 ]  takes a departure
+Arrival [ 9438 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9439 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9440 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9441 ] =  0.00660435
+Arrival [ 9441 ]  takes a departure
+Arrival [ 9442 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9443 ] =  0.0027756258
+Arrival [ 9443 ]  takes a departure
+busyServers : 0
+Depart  [ 9444 ] =  3.935501E-5
+Arrival [ 9444 ]  takes a departure
+busyServers : 0
+Depart  [ 9445 ] =  8.199189E-4
+Arrival [ 9445 ]  takes a departure
+busyServers : 0
+Depart  [ 9446 ] =  0.0034116472
+Arrival [ 9446 ]  takes a departure
+busyServers : 0
+Depart  [ 9447 ] =  0.0010163215
+Arrival [ 9447 ]  takes a departure
+busyServers : 0
+Depart  [ 9448 ] =  0.008857492
+Arrival [ 9448 ]  takes a departure
+Arrival [ 9449 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9450 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9451 ] =  0.002254653
+Arrival [ 9451 ]  takes a departure
+busyServers : 0
+Depart  [ 9452 ] =  0.0024748382
+Arrival [ 9452 ]  takes a departure
+busyServers : 0
+Depart  [ 9453 ] =  2.1462965E-4
+Arrival [ 9453 ]  takes a departure
+busyServers : 0
+Depart  [ 9454 ] =  0.0031166817
+Arrival [ 9454 ]  takes a departure
+busyServers : 0
+Depart  [ 9455 ] =  0.018455965
+Arrival [ 9455 ]  takes a departure
+busyServers : 0
+Depart  [ 9456 ] =  0.0053027514
+Arrival [ 9456 ]  takes a departure
+Arrival [ 9457 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9458 ] =  0.020342616
+Arrival [ 9458 ]  takes a departure
+busyServers : 0
+Depart  [ 9459 ] =  0.009393639
+Arrival [ 9459 ]  takes a departure
+Arrival [ 9460 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9461 ] =  0.0019888543
+Arrival [ 9461 ]  takes a departure
+Arrival [ 9462 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9463 ] =  0.010415643
+Arrival [ 9463 ]  takes a departure
+Arrival [ 9464 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9465 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9466 ] =  0.0018507338
+Arrival [ 9466 ]  takes a departure
+Arrival [ 9467 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9468 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9469 ] =  0.018167837
+Arrival [ 9469 ]  takes a departure
+Arrival [ 9470 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9471 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9472 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9473 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9474 ] =  0.0016191539
+Arrival [ 9474 ]  takes a departure
+busyServers : 0
+Depart  [ 9475 ] =  0.001853672
+Arrival [ 9475 ]  takes a departure
+Arrival [ 9476 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9477 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9478 ] =  0.005775389
+Arrival [ 9478 ]  takes a departure
+Arrival [ 9479 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9480 ] =  0.004859604
+Arrival [ 9480 ]  takes a departure
+Arrival [ 9481 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9482 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9483 ] =  0.0015545642
+Arrival [ 9483 ]  takes a departure
+Arrival [ 9484 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9485 ] =  0.01995559
+Arrival [ 9485 ]  takes a departure
+busyServers : 0
+Depart  [ 9486 ] =  0.0032624798
+Arrival [ 9486 ]  takes a departure
+busyServers : 0
+Depart  [ 9487 ] =  0.005575576
+Arrival [ 9487 ]  takes a departure
+busyServers : 0
+Depart  [ 9488 ] =  3.0715758E-4
+Arrival [ 9488 ]  takes a departure
+busyServers : 0
+Depart  [ 9489 ] =  0.0043577817
+Arrival [ 9489 ]  takes a departure
+Arrival [ 9490 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9491 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9492 ] =  0.004354764
+Arrival [ 9492 ]  takes a departure
+Arrival [ 9493 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9494 ] =  0.005363865
+Arrival [ 9494 ]  takes a departure
+Arrival [ 9495 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9496 ] =  0.05644308
+Arrival [ 9496 ]  takes a departure
+Arrival [ 9497 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9498 ] =  2.5670644E-4
+Arrival [ 9498 ]  takes a departure
+Arrival [ 9499 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9500 ] =  0.009360671
+Arrival [ 9500 ]  takes a departure
+busyServers : 0
+Depart  [ 9501 ] =  0.012832036
+Arrival [ 9501 ]  takes a departure
+busyServers : 0
+Depart  [ 9502 ] =  0.009231199
+Arrival [ 9502 ]  takes a departure
+busyServers : 0
+Depart  [ 9503 ] =  0.0075841444
+Arrival [ 9503 ]  takes a departure
+busyServers : 0
+Depart  [ 9504 ] =  0.0071742833
+Arrival [ 9504 ]  takes a departure
+busyServers : 0
+Depart  [ 9505 ] =  0.0024503414
+Arrival [ 9505 ]  takes a departure
+Arrival [ 9506 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9507 ] =  0.008376677
+Arrival [ 9507 ]  takes a departure
+busyServers : 0
+Depart  [ 9508 ] =  0.008181817
+Arrival [ 9508 ]  takes a departure
+busyServers : 0
+Depart  [ 9509 ] =  0.00641142
+Arrival [ 9509 ]  takes a departure
+Arrival [ 9510 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9511 ] =  0.0022580118
+Arrival [ 9511 ]  takes a departure
+busyServers : 0
+Depart  [ 9512 ] =  4.18713E-4
+Arrival [ 9512 ]  takes a departure
+busyServers : 0
+Depart  [ 9513 ] =  0.006032315
+Arrival [ 9513 ]  takes a departure
+Arrival [ 9514 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9515 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9516 ] =  0.006407041
+Arrival [ 9516 ]  takes a departure
+busyServers : 0
+Depart  [ 9517 ] =  0.00251942
+Arrival [ 9517 ]  takes a departure
+busyServers : 0
+Depart  [ 9518 ] =  0.0012323342
+Arrival [ 9518 ]  takes a departure
+Arrival [ 9519 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9520 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9521 ] =  0.0023160458
+Arrival [ 9521 ]  takes a departure
+busyServers : 0
+Depart  [ 9522 ] =  0.007942404
+Arrival [ 9522 ]  takes a departure
+Arrival [ 9523 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9524 ] =  0.009344452
+Arrival [ 9524 ]  takes a departure
+Arrival [ 9525 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9526 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9527 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9528 ] =  0.005617342
+Arrival [ 9528 ]  takes a departure
+busyServers : 0
+Depart  [ 9529 ] =  0.0142246755
+Arrival [ 9529 ]  takes a departure
+busyServers : 0
+Depart  [ 9530 ] =  0.0012184522
+Arrival [ 9530 ]  takes a departure
+busyServers : 0
+Depart  [ 9531 ] =  0.0051374473
+Arrival [ 9531 ]  takes a departure
+busyServers : 0
+Depart  [ 9532 ] =  0.0017240759
+Arrival [ 9532 ]  takes a departure
+busyServers : 0
+Depart  [ 9533 ] =  0.004261214
+Arrival [ 9533 ]  takes a departure
+busyServers : 0
+Depart  [ 9534 ] =  0.00608253
+Arrival [ 9534 ]  takes a departure
+Arrival [ 9535 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9536 ] =  0.008817775
+Arrival [ 9536 ]  takes a departure
+Arrival [ 9537 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9538 ] =  0.0046900013
+Arrival [ 9538 ]  takes a departure
+Arrival [ 9539 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9540 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9541 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9542 ] =  0.0013836579
+Arrival [ 9542 ]  takes a departure
+busyServers : 0
+Depart  [ 9543 ] =  0.0026502656
+Arrival [ 9543 ]  takes a departure
+busyServers : 0
+Depart  [ 9544 ] =  0.0020624835
+Arrival [ 9544 ]  takes a departure
+Arrival [ 9545 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9546 ] =  0.010682893
+Arrival [ 9546 ]  takes a departure
+busyServers : 0
+Depart  [ 9547 ] =  0.0126517
+Arrival [ 9547 ]  takes a departure
+busyServers : 0
+Depart  [ 9548 ] =  7.1060495E-4
+Arrival [ 9548 ]  takes a departure
+Arrival [ 9549 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9550 ] =  7.631503E-4
+Arrival [ 9550 ]  takes a departure
+busyServers : 0
+Depart  [ 9551 ] =  0.0056236284
+Arrival [ 9551 ]  takes a departure
+Arrival [ 9552 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9553 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9554 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9555 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 9556 ] do not departure 
+busyServers : 4
+ 
+Arrival [ 9557 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9558 ] =  0.011754811
+Arrival [ 9558 ]  takes a departure
+busyServers : 0
+Depart  [ 9559 ] =  0.0058435416
+Arrival [ 9559 ]  takes a departure
+busyServers : 0
+Depart  [ 9560 ] =  0.0053819926
+Arrival [ 9560 ]  takes a departure
+busyServers : 0
+Depart  [ 9561 ] =  0.004276246
+Arrival [ 9561 ]  takes a departure
+busyServers : 0
+Depart  [ 9562 ] =  0.0068321573
+Arrival [ 9562 ]  takes a departure
+busyServers : 0
+Depart  [ 9563 ] =  0.0074452213
+Arrival [ 9563 ]  takes a departure
+busyServers : 0
+Depart  [ 9564 ] =  3.975833E-4
+Arrival [ 9564 ]  takes a departure
+busyServers : 0
+Depart  [ 9565 ] =  0.005874263
+Arrival [ 9565 ]  takes a departure
+Arrival [ 9566 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9567 ] =  0.004987056
+Arrival [ 9567 ]  takes a departure
+Arrival [ 9568 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9569 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9570 ] =  0.015343403
+Arrival [ 9570 ]  takes a departure
+busyServers : 0
+Depart  [ 9571 ] =  2.5732841E-4
+Arrival [ 9571 ]  takes a departure
+busyServers : 0
+Depart  [ 9572 ] =  0.0012506127
+Arrival [ 9572 ]  takes a departure
+busyServers : 0
+Depart  [ 9573 ] =  7.43802E-4
+Arrival [ 9573 ]  takes a departure
+busyServers : 0
+Depart  [ 9574 ] =  0.0024381853
+Arrival [ 9574 ]  takes a departure
+busyServers : 0
+Depart  [ 9575 ] =  0.0012974343
+Arrival [ 9575 ]  takes a departure
+busyServers : 0
+Depart  [ 9576 ] =  0.0032846446
+Arrival [ 9576 ]  takes a departure
+Arrival [ 9577 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9578 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9579 ] =  0.0019654091
+Arrival [ 9579 ]  takes a departure
+Arrival [ 9580 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9581 ] =  0.010059773
+Arrival [ 9581 ]  takes a departure
+Arrival [ 9582 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9583 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9584 ] =  0.0033394806
+Arrival [ 9584 ]  takes a departure
+busyServers : 0
+Depart  [ 9585 ] =  0.0034393903
+Arrival [ 9585 ]  takes a departure
+Arrival [ 9586 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9587 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9588 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9589 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9590 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9591 ] =  0.003033878
+Arrival [ 9591 ]  takes a departure
+busyServers : 0
+Depart  [ 9592 ] =  0.0063669444
+Arrival [ 9592 ]  takes a departure
+Arrival [ 9593 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9594 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9595 ] =  0.015686516
+Arrival [ 9595 ]  takes a departure
+Arrival [ 9596 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9597 ] =  0.0010939144
+Arrival [ 9597 ]  takes a departure
+Arrival [ 9598 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9599 ] =  0.002886393
+Arrival [ 9599 ]  takes a departure
+busyServers : 0
+Depart  [ 9600 ] =  0.0035030313
+Arrival [ 9600 ]  takes a departure
+Arrival [ 9601 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9602 ] =  8.966698E-4
+Arrival [ 9602 ]  takes a departure
+Arrival [ 9603 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9604 ] =  0.024702393
+Arrival [ 9604 ]  takes a departure
+Arrival [ 9605 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9606 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9607 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9608 ] =  0.011916348
+Arrival [ 9608 ]  takes a departure
+busyServers : 0
+Depart  [ 9609 ] =  0.0021711271
+Arrival [ 9609 ]  takes a departure
+busyServers : 0
+Depart  [ 9610 ] =  0.008827522
+Arrival [ 9610 ]  takes a departure
+Arrival [ 9611 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9612 ] =  0.01378082
+Arrival [ 9612 ]  takes a departure
+Arrival [ 9613 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9614 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9615 ] =  0.0047849435
+Arrival [ 9615 ]  takes a departure
+busyServers : 0
+Depart  [ 9616 ] =  0.004183797
+Arrival [ 9616 ]  takes a departure
+Arrival [ 9617 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9618 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9619 ] =  0.0034178197
+Arrival [ 9619 ]  takes a departure
+busyServers : 0
+Depart  [ 9620 ] =  1.9774113E-4
+Arrival [ 9620 ]  takes a departure
+Arrival [ 9621 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9622 ] =  4.2386682E-4
+Arrival [ 9622 ]  takes a departure
+Arrival [ 9623 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9624 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9625 ] =  0.0018159236
+Arrival [ 9625 ]  takes a departure
+busyServers : 0
+Depart  [ 9626 ] =  0.006339914
+Arrival [ 9626 ]  takes a departure
+busyServers : 0
+Depart  [ 9627 ] =  0.0033104657
+Arrival [ 9627 ]  takes a departure
+Arrival [ 9628 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9629 ] =  0.0035768782
+Arrival [ 9629 ]  takes a departure
+busyServers : 0
+Depart  [ 9630 ] =  0.012141452
+Arrival [ 9630 ]  takes a departure
+busyServers : 0
+Depart  [ 9631 ] =  0.0041253157
+Arrival [ 9631 ]  takes a departure
+Arrival [ 9632 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9633 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9634 ] =  0.0049354243
+Arrival [ 9634 ]  takes a departure
+busyServers : 0
+Depart  [ 9635 ] =  0.007258499
+Arrival [ 9635 ]  takes a departure
+busyServers : 0
+Depart  [ 9636 ] =  0.002059204
+Arrival [ 9636 ]  takes a departure
+Arrival [ 9637 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9638 ] =  0.016400332
+Arrival [ 9638 ]  takes a departure
+busyServers : 0
+Depart  [ 9639 ] =  0.0033226262
+Arrival [ 9639 ]  takes a departure
+busyServers : 0
+Depart  [ 9640 ] =  6.4140727E-4
+Arrival [ 9640 ]  takes a departure
+Arrival [ 9641 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9642 ] =  0.01197498
+Arrival [ 9642 ]  takes a departure
+busyServers : 0
+Depart  [ 9643 ] =  3.8486876E-4
+Arrival [ 9643 ]  takes a departure
+busyServers : 0
+Depart  [ 9644 ] =  0.0041908524
+Arrival [ 9644 ]  takes a departure
+Arrival [ 9645 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9646 ] =  0.011523544
+Arrival [ 9646 ]  takes a departure
+busyServers : 0
+Depart  [ 9647 ] =  0.0058074035
+Arrival [ 9647 ]  takes a departure
+Arrival [ 9648 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9649 ] =  0.0015376077
+Arrival [ 9649 ]  takes a departure
+Arrival [ 9650 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9651 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9652 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9653 ] =  5.187591E-4
+Arrival [ 9653 ]  takes a departure
+busyServers : 0
+Depart  [ 9654 ] =  0.0015966266
+Arrival [ 9654 ]  takes a departure
+Arrival [ 9655 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9656 ] =  7.445263E-4
+Arrival [ 9656 ]  takes a departure
+Arrival [ 9657 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9658 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9659 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9660 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9661 ] =  0.0113957105
+Arrival [ 9661 ]  takes a departure
+busyServers : 1
+Depart  [ 9662 ] =  2.3268262E-4
+Arrival [ 9662 ]  takes a departure
+busyServers : 0
+Depart  [ 9663 ] =  0.002121015
+Arrival [ 9663 ]  takes a departure
+Arrival [ 9664 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9665 ] =  0.0023544198
+Arrival [ 9665 ]  takes a departure
+busyServers : 0
+Depart  [ 9666 ] =  0.0025871336
+Arrival [ 9666 ]  takes a departure
+Arrival [ 9667 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9668 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9669 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9670 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9671 ] =  0.011892011
+Arrival [ 9671 ]  takes a departure
+busyServers : 0
+Depart  [ 9672 ] =  0.018557813
+Arrival [ 9672 ]  takes a departure
+Arrival [ 9673 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9674 ] =  0.0015435389
+Arrival [ 9674 ]  takes a departure
+Arrival [ 9675 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9676 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9677 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9678 ] =  0.006552873
+Arrival [ 9678 ]  takes a departure
+busyServers : 0
+Depart  [ 9679 ] =  0.027456399
+Arrival [ 9679 ]  takes a departure
+Arrival [ 9680 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9681 ] =  0.0035179784
+Arrival [ 9681 ]  takes a departure
+Arrival [ 9682 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9683 ] =  0.0042035053
+Arrival [ 9683 ]  takes a departure
+busyServers : 0
+Depart  [ 9684 ] =  4.2617542E-4
+Arrival [ 9684 ]  takes a departure
+busyServers : 0
+Depart  [ 9685 ] =  0.0025690433
+Arrival [ 9685 ]  takes a departure
+Arrival [ 9686 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9687 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9688 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9689 ] =  0.0138382735
+Arrival [ 9689 ]  takes a departure
+busyServers : 0
+Depart  [ 9690 ] =  0.0076691136
+Arrival [ 9690 ]  takes a departure
+Arrival [ 9691 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9692 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9693 ] =  0.008850501
+Arrival [ 9693 ]  takes a departure
+Arrival [ 9694 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9695 ] =  0.0012391374
+Arrival [ 9695 ]  takes a departure
+busyServers : 0
+Depart  [ 9696 ] =  3.7844188E-6
+Arrival [ 9696 ]  takes a departure
+busyServers : 0
+Depart  [ 9697 ] =  0.003960773
+Arrival [ 9697 ]  takes a departure
+Arrival [ 9698 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9699 ] =  0.0043887505
+Arrival [ 9699 ]  takes a departure
+busyServers : 0
+Depart  [ 9700 ] =  0.0053746714
+Arrival [ 9700 ]  takes a departure
+busyServers : 0
+Depart  [ 9701 ] =  0.011493518
+Arrival [ 9701 ]  takes a departure
+busyServers : 0
+Depart  [ 9702 ] =  0.00344261
+Arrival [ 9702 ]  takes a departure
+Arrival [ 9703 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9704 ] =  0.0020243253
+Arrival [ 9704 ]  takes a departure
+Arrival [ 9705 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9706 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9707 ] =  0.003200556
+Arrival [ 9707 ]  takes a departure
+Arrival [ 9708 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9709 ] =  0.0030800966
+Arrival [ 9709 ]  takes a departure
+busyServers : 0
+Depart  [ 9710 ] =  7.644782E-4
+Arrival [ 9710 ]  takes a departure
+busyServers : 0
+Depart  [ 9711 ] =  0.009742331
+Arrival [ 9711 ]  takes a departure
+Arrival [ 9712 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9713 ] =  0.009106017
+Arrival [ 9713 ]  takes a departure
+busyServers : 0
+Depart  [ 9714 ] =  2.7180405E-4
+Arrival [ 9714 ]  takes a departure
+busyServers : 0
+Depart  [ 9715 ] =  0.0025740815
+Arrival [ 9715 ]  takes a departure
+busyServers : 0
+Depart  [ 9716 ] =  0.009009245
+Arrival [ 9716 ]  takes a departure
+Arrival [ 9717 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9718 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9719 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9720 ] =  0.0063872198
+Arrival [ 9720 ]  takes a departure
+busyServers : 0
+Depart  [ 9721 ] =  5.878771E-4
+Arrival [ 9721 ]  takes a departure
+Arrival [ 9722 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9723 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9724 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9725 ] =  0.004331688
+Arrival [ 9725 ]  takes a departure
+busyServers : 0
+Depart  [ 9726 ] =  0.0030191394
+Arrival [ 9726 ]  takes a departure
+Arrival [ 9727 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9728 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9729 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9730 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9731 ] =  0.009173336
+Arrival [ 9731 ]  takes a departure
+busyServers : 0
+Depart  [ 9732 ] =  0.005603564
+Arrival [ 9732 ]  takes a departure
+Arrival [ 9733 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9734 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9735 ] =  0.0051938295
+Arrival [ 9735 ]  takes a departure
+Arrival [ 9736 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9737 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9738 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9739 ] =  0.001790567
+Arrival [ 9739 ]  takes a departure
+Arrival [ 9740 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9741 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9742 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9743 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9744 ] =  0.0028632584
+Arrival [ 9744 ]  takes a departure
+busyServers : 0
+Depart  [ 9745 ] =  0.0078698825
+Arrival [ 9745 ]  takes a departure
+busyServers : 0
+Depart  [ 9746 ] =  0.0042287535
+Arrival [ 9746 ]  takes a departure
+busyServers : 0
+Depart  [ 9747 ] =  0.0031544503
+Arrival [ 9747 ]  takes a departure
+busyServers : 0
+Depart  [ 9748 ] =  0.005714083
+Arrival [ 9748 ]  takes a departure
+Arrival [ 9749 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9750 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9751 ] =  0.012632427
+Arrival [ 9751 ]  takes a departure
+Arrival [ 9752 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9753 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9754 ] do not departure 
+busyServers : 3
+ 
+busyServers : 2
+Depart  [ 9755 ] =  0.0025112699
+Arrival [ 9755 ]  takes a departure
+busyServers : 0
+Depart  [ 9756 ] =  0.0058925506
+Arrival [ 9756 ]  takes a departure
+Arrival [ 9757 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9758 ] =  0.0033345143
+Arrival [ 9758 ]  takes a departure
+busyServers : 0
+Depart  [ 9759 ] =  0.015995609
+Arrival [ 9759 ]  takes a departure
+Arrival [ 9760 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9761 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9762 ] =  0.008126732
+Arrival [ 9762 ]  takes a departure
+Arrival [ 9763 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9764 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9765 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9766 ] =  0.0022101554
+Arrival [ 9766 ]  takes a departure
+Arrival [ 9767 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9768 ] =  0.0029914463
+Arrival [ 9768 ]  takes a departure
+busyServers : 0
+Depart  [ 9769 ] =  0.018094134
+Arrival [ 9769 ]  takes a departure
+busyServers : 0
+Depart  [ 9770 ] =  4.894288E-4
+Arrival [ 9770 ]  takes a departure
+Arrival [ 9771 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9772 ] =  0.0014989527
+Arrival [ 9772 ]  takes a departure
+Arrival [ 9773 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9774 ] =  0.0061546415
+Arrival [ 9774 ]  takes a departure
+busyServers : 0
+Depart  [ 9775 ] =  0.0021900986
+Arrival [ 9775 ]  takes a departure
+busyServers : 0
+Depart  [ 9776 ] =  4.9233733E-4
+Arrival [ 9776 ]  takes a departure
+busyServers : 0
+Depart  [ 9777 ] =  0.0037825464
+Arrival [ 9777 ]  takes a departure
+Arrival [ 9778 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9779 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9780 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9781 ] =  0.0026655765
+Arrival [ 9781 ]  takes a departure
+busyServers : 0
+Depart  [ 9782 ] =  0.0034221176
+Arrival [ 9782 ]  takes a departure
+busyServers : 0
+Depart  [ 9783 ] =  0.0019827883
+Arrival [ 9783 ]  takes a departure
+Arrival [ 9784 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9785 ] =  0.0012949549
+Arrival [ 9785 ]  takes a departure
+busyServers : 0
+Depart  [ 9786 ] =  0.0035345173
+Arrival [ 9786 ]  takes a departure
+Arrival [ 9787 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9788 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9789 ] =  0.001362782
+Arrival [ 9789 ]  takes a departure
+busyServers : 0
+Depart  [ 9790 ] =  6.441487E-4
+Arrival [ 9790 ]  takes a departure
+busyServers : 0
+Depart  [ 9791 ] =  0.0022078003
+Arrival [ 9791 ]  takes a departure
+busyServers : 0
+Depart  [ 9792 ] =  0.0015062939
+Arrival [ 9792 ]  takes a departure
+Arrival [ 9793 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9794 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9795 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9796 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9797 ] =  0.00886446
+Arrival [ 9797 ]  takes a departure
+Arrival [ 9798 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9799 ] =  0.007998001
+Arrival [ 9799 ]  takes a departure
+busyServers : 0
+Depart  [ 9800 ] =  0.01178462
+Arrival [ 9800 ]  takes a departure
+Arrival [ 9801 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9802 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9803 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9804 ] =  0.001912794
+Arrival [ 9804 ]  takes a departure
+Arrival [ 9805 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9806 ] =  0.008095918
+Arrival [ 9806 ]  takes a departure
+busyServers : 0
+Depart  [ 9807 ] =  0.0024366267
+Arrival [ 9807 ]  takes a departure
+Arrival [ 9808 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9809 ] =  0.006017473
+Arrival [ 9809 ]  takes a departure
+busyServers : 0
+Depart  [ 9810 ] =  0.001077009
+Arrival [ 9810 ]  takes a departure
+busyServers : 0
+Depart  [ 9811 ] =  0.0023227676
+Arrival [ 9811 ]  takes a departure
+Arrival [ 9812 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9813 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9814 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9815 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9816 ] =  1.2318294E-4
+Arrival [ 9816 ]  takes a departure
+busyServers : 0
+Depart  [ 9817 ] =  6.608015E-4
+Arrival [ 9817 ]  takes a departure
+busyServers : 0
+Depart  [ 9818 ] =  0.0034111585
+Arrival [ 9818 ]  takes a departure
+Arrival [ 9819 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9820 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9821 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9822 ] =  0.0064392313
+Arrival [ 9822 ]  takes a departure
+Arrival [ 9823 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9824 ] =  0.001663884
+Arrival [ 9824 ]  takes a departure
+busyServers : 0
+Depart  [ 9825 ] =  0.007664853
+Arrival [ 9825 ]  takes a departure
+Arrival [ 9826 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9827 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9828 ] =  0.0047695553
+Arrival [ 9828 ]  takes a departure
+busyServers : 0
+Depart  [ 9829 ] =  0.0012466472
+Arrival [ 9829 ]  takes a departure
+busyServers : 0
+Depart  [ 9830 ] =  0.003929354
+Arrival [ 9830 ]  takes a departure
+Arrival [ 9831 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9832 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9833 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9834 ] =  8.773272E-4
+Arrival [ 9834 ]  takes a departure
+Arrival [ 9835 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9836 ] =  0.0023167506
+Arrival [ 9836 ]  takes a departure
+Arrival [ 9837 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9838 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9839 ] =  0.003385543
+Arrival [ 9839 ]  takes a departure
+busyServers : 0
+Depart  [ 9840 ] =  0.0013288024
+Arrival [ 9840 ]  takes a departure
+Arrival [ 9841 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9842 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9843 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9844 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9845 ] =  0.009961301
+Arrival [ 9845 ]  takes a departure
+busyServers : 0
+Depart  [ 9846 ] =  0.01337863
+Arrival [ 9846 ]  takes a departure
+Arrival [ 9847 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9848 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9849 ] =  0.01018728
+Arrival [ 9849 ]  takes a departure
+Arrival [ 9850 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9851 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9852 ] =  0.012028546
+Arrival [ 9852 ]  takes a departure
+busyServers : 0
+Depart  [ 9853 ] =  0.015235326
+Arrival [ 9853 ]  takes a departure
+busyServers : 0
+Depart  [ 9854 ] =  0.0012695682
+Arrival [ 9854 ]  takes a departure
+Arrival [ 9855 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9856 ] =  0.0037438849
+Arrival [ 9856 ]  takes a departure
+Arrival [ 9857 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9858 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9859 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9860 ] =  0.0031702917
+Arrival [ 9860 ]  takes a departure
+busyServers : 0
+Depart  [ 9861 ] =  0.00558216
+Arrival [ 9861 ]  takes a departure
+busyServers : 0
+Depart  [ 9862 ] =  0.016954698
+Arrival [ 9862 ]  takes a departure
+busyServers : 0
+Depart  [ 9863 ] =  0.0013882383
+Arrival [ 9863 ]  takes a departure
+busyServers : 0
+Depart  [ 9864 ] =  0.007348118
+Arrival [ 9864 ]  takes a departure
+Arrival [ 9865 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9866 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9867 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9868 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9869 ] =  0.004618926
+Arrival [ 9869 ]  takes a departure
+busyServers : 0
+Depart  [ 9870 ] =  0.012478436
+Arrival [ 9870 ]  takes a departure
+Arrival [ 9871 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9872 ] =  2.5921714E-4
+Arrival [ 9872 ]  takes a departure
+Arrival [ 9873 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9874 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9875 ] =  0.0018226294
+Arrival [ 9875 ]  takes a departure
+Arrival [ 9876 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9877 ] =  0.005015913
+Arrival [ 9877 ]  takes a departure
+busyServers : 0
+Depart  [ 9878 ] =  6.776976E-4
+Arrival [ 9878 ]  takes a departure
+busyServers : 0
+Depart  [ 9879 ] =  0.0040612933
+Arrival [ 9879 ]  takes a departure
+busyServers : 0
+Depart  [ 9880 ] =  0.006242063
+Arrival [ 9880 ]  takes a departure
+Arrival [ 9881 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9882 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9883 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9884 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9885 ] =  0.00581345
+Arrival [ 9885 ]  takes a departure
+Arrival [ 9886 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9887 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9888 ] =  0.0011597209
+Arrival [ 9888 ]  takes a departure
+Arrival [ 9889 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9890 ] =  0.006210923
+Arrival [ 9890 ]  takes a departure
+busyServers : 0
+Depart  [ 9891 ] =  0.0074937944
+Arrival [ 9891 ]  takes a departure
+busyServers : 0
+Depart  [ 9892 ] =  0.0019243556
+Arrival [ 9892 ]  takes a departure
+Arrival [ 9893 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9894 ] =  2.1968543E-4
+Arrival [ 9894 ]  takes a departure
+busyServers : 0
+Depart  [ 9895 ] =  0.0029602246
+Arrival [ 9895 ]  takes a departure
+Arrival [ 9896 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9897 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9898 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9899 ] =  0.010074085
+Arrival [ 9899 ]  takes a departure
+busyServers : 0
+Depart  [ 9900 ] =  0.017621724
+Arrival [ 9900 ]  takes a departure
+Arrival [ 9901 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9902 ] =  9.447291E-4
+Arrival [ 9902 ]  takes a departure
+Arrival [ 9903 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9904 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9905 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9906 ] =  0.0032292712
+Arrival [ 9906 ]  takes a departure
+busyServers : 0
+Depart  [ 9907 ] =  0.0070550595
+Arrival [ 9907 ]  takes a departure
+Arrival [ 9908 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9909 ] =  0.0040394855
+Arrival [ 9909 ]  takes a departure
+busyServers : 0
+Depart  [ 9910 ] =  0.0020960558
+Arrival [ 9910 ]  takes a departure
+busyServers : 0
+Depart  [ 9911 ] =  9.109332E-4
+Arrival [ 9911 ]  takes a departure
+busyServers : 0
+Depart  [ 9912 ] =  0.015003062
+Arrival [ 9912 ]  takes a departure
+busyServers : 0
+Depart  [ 9913 ] =  0.004589363
+Arrival [ 9913 ]  takes a departure
+busyServers : 0
+Depart  [ 9914 ] =  0.0070505263
+Arrival [ 9914 ]  takes a departure
+busyServers : 0
+Depart  [ 9915 ] =  0.0016960697
+Arrival [ 9915 ]  takes a departure
+Arrival [ 9916 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9917 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9918 ] =  0.010649837
+Arrival [ 9918 ]  takes a departure
+Arrival [ 9919 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9920 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9921 ] =  0.016083898
+Arrival [ 9921 ]  takes a departure
+Arrival [ 9922 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9923 ] =  9.3543093E-4
+Arrival [ 9923 ]  takes a departure
+busyServers : 0
+Depart  [ 9924 ] =  0.002778054
+Arrival [ 9924 ]  takes a departure
+busyServers : 0
+Depart  [ 9925 ] =  6.778207E-4
+Arrival [ 9925 ]  takes a departure
+Arrival [ 9926 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9927 ] =  0.0011126109
+Arrival [ 9927 ]  takes a departure
+Arrival [ 9928 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9929 ] =  0.0016921735
+Arrival [ 9929 ]  takes a departure
+busyServers : 0
+Depart  [ 9930 ] =  0.010037284
+Arrival [ 9930 ]  takes a departure
+busyServers : 0
+Depart  [ 9931 ] =  0.0030327286
+Arrival [ 9931 ]  takes a departure
+Arrival [ 9932 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9933 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9934 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9935 ] =  0.019568292
+Arrival [ 9935 ]  takes a departure
+Arrival [ 9936 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9937 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9938 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9939 ] =  0.00845235
+Arrival [ 9939 ]  takes a departure
+Arrival [ 9940 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9941 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9942 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9943 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9944 ] =  0.011186975
+Arrival [ 9944 ]  takes a departure
+Arrival [ 9945 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9946 ] =  0.0048994
+Arrival [ 9946 ]  takes a departure
+Arrival [ 9947 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9948 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9949 ] =  0.002663161
+Arrival [ 9949 ]  takes a departure
+busyServers : 0
+Depart  [ 9950 ] =  5.352369E-4
+Arrival [ 9950 ]  takes a departure
+Arrival [ 9951 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9952 ] =  0.0057223486
+Arrival [ 9952 ]  takes a departure
+busyServers : 0
+Depart  [ 9953 ] =  3.0659369E-6
+Arrival [ 9953 ]  takes a departure
+busyServers : 0
+Depart  [ 9954 ] =  0.014814303
+Arrival [ 9954 ]  takes a departure
+Arrival [ 9955 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9956 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9957 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9958 ] =  0.006411676
+Arrival [ 9958 ]  takes a departure
+Arrival [ 9959 ] do not departure 
+busyServers : 2
+ 
+busyServers : 1
+Depart  [ 9960 ] =  6.016292E-4
+Arrival [ 9960 ]  takes a departure
+busyServers : 0
+Depart  [ 9961 ] =  0.00150621
+Arrival [ 9961 ]  takes a departure
+busyServers : 0
+Depart  [ 9962 ] =  0.024767186
+Arrival [ 9962 ]  takes a departure
+Arrival [ 9963 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9964 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9965 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9966 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9967 ] =  0.0047177454
+Arrival [ 9967 ]  takes a departure
+Arrival [ 9968 ] do not departure 
+busyServers : 3
+ 
+Arrival [ 9969 ] do not departure 
+busyServers : 4
+ 
+busyServers : 2
+Depart  [ 9970 ] =  0.0030273967
+Arrival [ 9970 ]  takes a departure
+Arrival [ 9971 ] do not departure 
+busyServers : 3
+ 
+busyServers : 1
+Depart  [ 9972 ] =  0.015640251
+Arrival [ 9972 ]  takes a departure
+Arrival [ 9973 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9974 ] =  0.0031318713
+Arrival [ 9974 ]  takes a departure
+busyServers : 0
+Depart  [ 9975 ] =  0.021955384
+Arrival [ 9975 ]  takes a departure
+Arrival [ 9976 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9977 ] =  0.004490229
+Arrival [ 9977 ]  takes a departure
+busyServers : 0
+Depart  [ 9978 ] =  0.010843887
+Arrival [ 9978 ]  takes a departure
+Arrival [ 9979 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9980 ] =  0.0023024308
+Arrival [ 9980 ]  takes a departure
+Arrival [ 9981 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9982 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9983 ] =  0.007854785
+Arrival [ 9983 ]  takes a departure
+Arrival [ 9984 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9985 ] =  0.0065774596
+Arrival [ 9985 ]  takes a departure
+Arrival [ 9986 ] do not departure 
+busyServers : 1
+ 
+busyServers : 0
+Depart  [ 9987 ] =  0.001905483
+Arrival [ 9987 ]  takes a departure
+Arrival [ 9988 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9989 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9990 ] do not departure 
+busyServers : 2
+ 
+Arrival [ 9991 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9992 ] =  0.0055150064
+Arrival [ 9992 ]  takes a departure
+Arrival [ 9993 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9994 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9995 ] do not departure 
+busyServers : 2
+ 
+busyServers : 0
+Depart  [ 9996 ] =  0.0022595203
+Arrival [ 9996 ]  takes a departure
+busyServers : 0
+Depart  [ 9997 ] =  0.0039862655
+Arrival [ 9997 ]  takes a departure
+Arrival [ 9998 ] do not departure 
+busyServers : 1
+ 
+Arrival [ 9999 ] do not departure 
+busyServers : 2
+ 
+Number of times Zero Servers were Busy : 2643
+Number of times One Servers were Busy : 3877
+Number of times Two Servers were Busy : 1742
+Number of times Three Servers were Busy : 721
+Number of times Four Servers were Busy : 310
+  
+Average time Number of Busy Servers is: 2.5991716E-7
